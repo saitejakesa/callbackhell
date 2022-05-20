@@ -1,0 +1,13 @@
+#demo{
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.textallignment{
+    border: 1px solid #f0f0f0;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 600px;
+    
+}
